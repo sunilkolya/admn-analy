@@ -1,0 +1,6 @@
+{
+  "name": "Classwise Category Calculator",
+  "description": "ML-powered calculator for class-wise student enrollment totals across social and admission categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
